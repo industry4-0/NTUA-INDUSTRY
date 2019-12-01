@@ -6,6 +6,6 @@ This repository contains our team's (*NTUA-INDUSTRY*) project for the competitio
 ## 📋Contents
 ## 📙Databases
 
-## Tools
+## ⚙️ Tools
 
 ## 👱Project Collaborators
